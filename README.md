@@ -24,7 +24,7 @@ A) input
             del data1[k]
         else:
             data1[k] = v2
-        return dupKeys
+      return dupKeys
 
   C) 
       TEST CASE 1:
